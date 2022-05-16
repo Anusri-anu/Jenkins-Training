@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-16T09:49:07 IST" name="Default suite" finished-at="2022-05-16T09:49:25 IST" duration-ms="18252">
+    <groups>
+    </groups>
+    <test started-at="2022-05-16T09:49:07 IST" name="Default test" finished-at="2022-05-16T09:49:25 IST" duration-ms="18252">
+      <class name="Gmail_Login_Process.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Gmail_Login_Process.NewTest@b9b00e0]" started-at="2022-05-16T09:49:07 IST" name="beforeTest" finished-at="2022-05-16T09:49:11 IST" duration-ms="4003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testEasy()[pri:0, instance:Gmail_Login_Process.NewTest@b9b00e0]" started-at="2022-05-16T09:49:11 IST" name="testEasy" finished-at="2022-05-16T09:49:25 IST" duration-ms="14218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Gmail_Login_Process.NewTest@b9b00e0]" started-at="2022-05-16T09:49:25 IST" name="afterTest" finished-at="2022-05-16T09:49:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Gmail_Login_Process.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
